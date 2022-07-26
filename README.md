@@ -3,7 +3,7 @@
 # Description:
  This project is a recreation of the google maps application. It utilizes MapBox APIs to center on your current location, as well as to 
  generate GPS directions from a starting location to a destination. These directions can be for cars, walking or biking. Additionally, it includes 
- controls map zoom and orientation.
+ controls for map zoom and orientation.
  
  # How to run:
  1. Clone repo onto your local machine
